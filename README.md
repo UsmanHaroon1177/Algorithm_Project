@@ -1,8 +1,8 @@
 # Algorithm_Project
 # Social Network Analysis – Design and Analysis of Algorithms (Fall 2024)
 
-This project is part of **CS-2009 Design and Analysis of Algorithms** at  
-**National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad Campus (Fall 2024)**.  
+This project is part of **CS-2009 Design and Analysis of Algorithms**
+  
 
 The project analyzes a social network dataset using graph algorithms and dynamic programming techniques.  
 
